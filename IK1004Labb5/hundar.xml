@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<hundar>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<hund id="1">
+    <namn>Olga</namn>
+    <ras>Blandras</ras>
+    <bildURL>olga.jpg</bildURL>
+  </hund>
+<hund id="2">
+    <namn>Sheldon</namn>
+    <ras>Whippet</ras>
+    <bildURL>sheldon.jpg</bildURL>
+  </hund>
+<hund id="3">
+    <namn>Sansa</namn>
+    <ras>Borzoi</ras>
+    <bildURL>sansa.jpg</bildURL>
+  </hund>
+
+
+</hundar>
